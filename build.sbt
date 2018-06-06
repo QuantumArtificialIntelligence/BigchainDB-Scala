@@ -1,3 +1,4 @@
+// Quantum Artificial Intelligence
 import Dependencies._
 
 resolvers += Resolver.mavenLocal // Declares the path to the local Maven, where BigchainDB driver was published
